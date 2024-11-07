@@ -1,7 +1,7 @@
 from turtle import *
 
-bgcolor("blue")
 circle(50)
-
+forward(100)
+circle(50)
 
 done()
